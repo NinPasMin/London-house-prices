@@ -20,4 +20,4 @@ This project explores the economic and housing trends in London and the UK, high
 
 Link to the below Dashboard - [https://public.tableau.com/app/profile/janina.paszek.minshull/viz/Pear/Dashboard1?publish=yes](https://public.tableau.com/app/profile/janina.paszek.minshull/viz/Londonpropertyprices/PropertyMarket?publish=yes)
 
-![
+![london-house-prices-dashboard](https://github.com/NinPasMin/London-house-prices/blob/main/London%20house%20prices%20Tableau%20dashboard.PNG?raw=true)
