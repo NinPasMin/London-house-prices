@@ -18,7 +18,7 @@ Economic and Housing Trends in London and the UK, London Property Prices Predict
 
 1. The first part of the project explores the economic and housing trends in London and the UK, highlighting disparities in salaries, property prices, and growth rates across different areas. It examines how central boroughs like Westminster and the City of London dominate in earnings and property prices, while outer boroughs remain more affordable but experience slower growth. The analysis also identifies trends in property types, growth volatility, and investment potential within London's dynamic real estate market.
    
-   #### The detailed description of London's property prices' data preparation is included in the file                   'london_prices.ipynb' saved in this repository.
+   #### The detailed description of London's property prices' data preparation is included in the           file 'london_prices.ipynb' saved in this repository.
 
    Link to the below Dashboard in Tableau Public:
    https://public.tableau.com/app/profile/janina.paszek.minshull/viz/Londonpropertyprices/PropertyMarket?publish=yes
