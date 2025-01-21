@@ -8,7 +8,7 @@ Economic and Housing Trends in London and the UK, London Property Prices Predict
 - [Tools](#tools)
 - [Data Analysis](#data-analysis)
 - [Results](#results)
-- [Recommendation](#recommendation)
+- [Key Takeaways](#key-takeaways)
 - [Reference](#reference)
 
 --- 
@@ -123,4 +123,6 @@ Data analysis involved exploring the data in order to answer key questions, such
 
 
 ### Key Takeaways:
+
+### Reference:
 
