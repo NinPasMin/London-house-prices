@@ -31,11 +31,11 @@ Economic and Housing Trends in London and the UK, London Property Prices Predict
 
 ### Data Source
 
-      - 'london_houses_raw_file.csv' - the file containing information about the London's boroughs' property prices -           modified in Jupyter Notebook, 
-      - 'housing_in_london_yearly_variables.csv' - containing information about the changes in the mean and median              salaries accross London and UK over the years (1999 - 2019) - used in Tableau Public,
-      - 'mean_price_of_houses_in_london_uk' - containing information about the changes of average property prices in            London and across UK over the years (2006 - 2024) - used in Tableau Public,
-      - 'london_postcodes-lat-long.csv' - placing the location of London boroughs on a map using longitude and                  latitude of the London postal codes - used in Tableau Public,
-      - 'london_houses_after cleaning.xlsx' - the file exported from Jupyter Notebook used for the visualisation in             Tableau Public.
+   - 'london_houses_raw_file.csv' - the file containing information about the London's boroughs' property prices -           modified in Jupyter Notebook, 
+   - 'housing_in_london_yearly_variables.csv' - containing information about the changes in the mean and median              salaries accross London and UK over the years (1999 - 2019) - used in Tableau Public,
+   - 'mean_price_of_houses_in_london_uk' - containing information about the changes of average property prices in            London and across UK over the years (2006 - 2024) - used in Tableau Public,
+   - 'london_postcodes-lat-long.csv' - placing the location of London boroughs on a map using longitude and                  latitude of the London postal codes - used in Tableau Public,
+   - 'london_houses_after cleaning.xlsx' - the file exported from Jupyter Notebook used for the visualisation in             Tableau Public.
 
 ### Tools
 
