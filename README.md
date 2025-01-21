@@ -20,7 +20,7 @@ Economic and Housing Trends in London and the UK, London Property Prices Predict
    
    #### The detailed description of London's property prices' data preparation is included in the file                   'london_prices.ipynb' saved in this repository.
 
-   #### Link to the Dashboard in Tableau Public
+   Link to the below Dashboard in Tableau Public:
    https://public.tableau.com/app/profile/janina.paszek.minshull/viz/Londonpropertyprices/PropertyMarket?publish=yes
 
 ![dashboard](https://github.com/NinPasMin/London-house-prices/blob/main/London%20house%20prices%20Tableau%20dashboard.PNG?raw=true)
