@@ -68,28 +68,28 @@ Economic and Housing Trends in London and the UK, London Property Prices Predict
 Data analysis involved exploring the data in order to answer key questions, such as:
 
 1. Salaries and Affordability:
-  - How do average salaries in London boroughs compare to the rest of the UK?
-  - Are salaries in certain London areas aligned with the property prices in those areas?
+     - How do average salaries in London boroughs compare to the rest of the UK?
+     - Are salaries in certain London areas aligned with the property prices in those areas?
 
 2. Property Price Trends:
-  - How have average monthly property prices changed in London compared to the UK over time (2006–2024)?
-  - Which London areas experienced the most significant price growth in the last two decades?
+     - How have average monthly property prices changed in London compared to the UK over time (2006–2024)?
+     - Which London areas experienced the most significant price growth in the last two decades?
 
 3. Annual Growth Rate:
-  - What are the periods of high and low growth in property prices in London versus the UK?
-  - How volatile are the property prices in London compared to the overall UK market?
+     - What are the periods of high and low growth in property prices in London versus the UK?
+     - How volatile are the property prices in London compared to the overall UK market?
 
 4. Regional Differences:
-  - Which London areas have the highest and lowest property prices in February 2024?
-  - How does the distribution of house prices per square foot vary across London boroughs?
+     - Which London areas have the highest and lowest property prices in February 2024?
+     - How does the distribution of house prices per square foot vary across London boroughs?
 
 5. Property Types and Value:
-  - What is the average price and price per square foot for different property types in London (bungalows, duplexes, etc.)?
-  - Which property type offers the best value for money in terms of price per square foot?
+     - What is the average price and price per square foot for different property types in London (bungalows,                  duplexes, etc.)?
+     - Which property type offers the best value for money in terms of price per square foot?
 
 6. Buyer Preferences:
-  - How do property prices vary based on size (square footage), number of bedrooms, bathrooms, or receptions?
-  - Which areas in London provide properties in specific price ranges or sizes that meet certain criteria?
+     - How do property prices vary based on size (square footage), number of bedrooms, bathrooms, or receptions?
+     - Which areas in London provide properties in specific price ranges or sizes that meet certain criteria?
 
 
 ### Data Analysis Result
