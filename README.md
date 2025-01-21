@@ -23,7 +23,7 @@ Economic and Housing Trends in London and the UK, London Property Prices Predict
    #### Link to the Dashboard in Tableau Public
 [https://public.tableau.com/app/profile/janina.paszek.minshull/viz/Pear/Dashboard1?publish=yes]                        (https://public.tableau.com/app/profile/janina.paszek.minshull/viz/Londonpropertyprices/PropertyMarket?publish=yes)
 
-   ![london-house-prices-dashboard](https://github.com/NinPasMin/London-house-                                            prices/blob/main/London%20house%20prices%20Tableau%20dashboard.PNG?raw=true)
+![london-house-prices-dashboard](https://github.com/NinPasMin/London-house-                                            prices/blob/main/London%20house%20prices%20Tableau%20dashboard.PNG?raw=true)
 
 3. The second part of the project focusus on building 2 price prediction models for London areas - based on the property location, its size, number of bedrooms, number of bathrooms and the number of receptions and veryifing which model performs better - with or without the identified outliers.
 
