@@ -95,31 +95,31 @@ Data analysis involved exploring the data in order to answer key questions, such
 ### Data Analysis Result
 
 1. Salaries and Affordability - London / UK Average Salaries (1999 - 2002)
-  - Salaries in London are significantly higher than the UK average across all years displayed.
-    Certain areas in London, such as the City of London, Westminster, and Islington, consistently show higher average      salaries compared to other boroughs.
-  - Salaries have been increasing steadily from 1999 to 2002, with notable jumps in the City of London (from £48.9K in     1999 to £56.5K in 2002) and Islington (from £34.2K to £54.1K).
+   - Salaries in London are significantly higher than the UK average across all years displayed.
+     Certain areas in London, such as the City of London, Westminster, and Islington, consistently show higher average      salaries compared to other boroughs.
+   - Salaries have been increasing steadily from 1999 to 2002, with notable jumps in the City of London (from £48.9K        in 1999 to £56.5K in 2002) and Islington (from £34.2K to £54.1K).
 
 2. Property Price Trends (2006 - 2024)
-  - London consistently shows a higher average sales price compared to the UK as a whole.
-  - Property prices in London experienced steady growth until around 2020, after which growth slowed down slightly.
-  The UK follows a similar upward trajectory, but the price difference between London and the UK is widening over time.
+   - London consistently shows a higher average sales price compared to the UK as a whole.
+   - Property prices in London experienced steady growth until around 2020, after which growth slowed down slightly.
+     The UK follows a similar upward trajectory, but the price difference between London and the UK is widening over        time.
 
 3. Annual Growth Rate (2006 - 2024)
-  - London's property market demonstrates more volatile growth compared to the UK, with sharp peaks and dips.
-  - Significant dips occurred during the 2008 financial crisis and other market corrections.
-  - A rebound in growth is visible post-2020, although volatility persists.
+   - London's property market demonstrates more volatile growth compared to the UK, with sharp peaks and dips.
+   - Significant dips occurred during the 2008 financial crisis and other market corrections.
+   - A rebound in growth is visible post-2020, although volatility persists.
 
 4. Regional Differences - Property Prices in London Areas (Feb 2024)
-  - The map highlights significant variation in property prices across London, with certain areas reaching up to           £39.75M.
-  - Higher-priced properties are concentrated in central boroughs like Kensington and Chelsea and Westminster.
+   - The map highlights significant variation in property prices across London, with certain areas reaching up to           £39.75M.
+   - Higher-priced properties are concentrated in central boroughs like Kensington and Chelsea and Westminster.
 
 5. Property Types and Value - Size and Price of Property Types in London (Feb 2024)
    -  Bungalows are the most affordable type (£904,444 average price), whereas Penthouses are the most expensive          (£13.1M average price).
    -  Flats/Apartments offer the lowest price per square foot (£1,232 per sqft), making them relatively cost-efficient.
 
 6. Buyer Preferences - Distribution of House Prices per Square Foot
-  - The majority of properties fall between £750 and £1,750 per square foot, with a steep decline in properties priced   beyond this range.
-  - Higher density in mid-tier pricing suggests balanced affordability for a significant portion of buyers.
+   - The majority of properties fall between £750 and £1,750 per square foot, with a steep decline in properties            priced   beyond this range.
+   - Higher density in mid-tier pricing suggests balanced affordability for a significant portion of buyers.
 
 
 ### Key Takeaways:
