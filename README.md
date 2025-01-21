@@ -18,16 +18,16 @@ Economic and Housing Trends in London and the UK, London Property Prices Predict
 
 1. The first part of the project explores the economic and housing trends in London and the UK, highlighting disparities in salaries, property prices, and growth rates across different areas. It examines how central boroughs like Westminster and the City of London dominate in earnings and property prices, while outer boroughs remain more affordable but experience slower growth. The analysis also identifies trends in property types, growth volatility, and investment potential within London's dynamic real estate market.
    
-#### The detailed description of London's property prices' data preparation is included in the file 'london_prices.ipynb' saved in this repository.
+   #### The detailed description of London's property prices' data preparation is included in the file                   'london_prices.ipynb' saved in this repository.
 
-#### Link to the Dashboard in Tableau Public
-[https://public.tableau.com/app/profile/janina.paszek.minshull/viz/Pear/Dashboard1?publish=yes](https://public.tableau.com/app/profile/janina.paszek.minshull/viz/Londonpropertyprices/PropertyMarket?publish=yes)
+   #### Link to the Dashboard in Tableau Public
+   [https://public.tableau.com/app/profile/janina.paszek.minshull/viz/Pear/Dashboard1?publish=yes]                        (https://public.tableau.com/app/profile/janina.paszek.minshull/viz/Londonpropertyprices/PropertyMarket?publish=yes)
 
-![london-house-prices-dashboard](https://github.com/NinPasMin/London-house-prices/blob/main/London%20house%20prices%20Tableau%20dashboard.PNG?raw=true)
+   ![london-house-prices-dashboard](https://github.com/NinPasMin/London-house-                                            prices/blob/main/London%20house%20prices%20Tableau%20dashboard.PNG?raw=true)
 
 2. The second part of the project focusus on building 2 price prediction models for London areas - based on the property location, its size, number of bedrooms, number of bathrooms and the number of receptions and veryifing which model performs better - with or without the identified outliers.
 
-#### The detailed description of building the models is included in the 'london_prices.ipynb' saved in this repository.
+   #### The detailed description of building the models is included in the 'london_prices.ipynb' saved in this                 repository.
 
 ### Data Source
 
