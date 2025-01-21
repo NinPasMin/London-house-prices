@@ -125,17 +125,19 @@ Data analysis involved exploring the data in order to answer key questions, such
 ### Key Takeaways
 
 1. Economic Disparity:
-   - Salary Divide: Salaries in London are significantly higher than the UK average, but this gap is especially             pronounced in central London, reflecting the higher concentration of high-paying industries like finance, tech,        and legal services.
-   - Property Divide: Property prices highlight a similar divide. Central boroughs such as Westminster and Kensington       and Chelsea are unaffordable to most, while outer boroughs like Greenwich or Ealing offer more                          affordable options, albeit with fewer high-paying job opportunities. This disparity underscores the                    socioeconomic polarization within London.
-3. Property Market Resilience:
-      - Despite global economic challenges, London's property market remains robust, though more volatile compared to          the broader UK market.
-4. Affordability Challenges:
-      - London remains a high-demand market, keeping property prices elevated. The rising price per square foot,               especially in central London, indicates growing affordability concerns for average buyers.
-      - Luxury properties (beyond £2,000 per sqft) such as penthouses and house remain a niche market segment
-5 . Investment Opportunities:
-   - Apartments and flats present opportunities for cost-efficient investments, while luxury properties cater to high-      net-worth individuals. 
-   - Certain areas of London have experienced rapid salary growth, yet property prices in these locations have not          risen at the same pace. This disparity could present attractive opportunities for investors, as these areas may        offer strong potential for future property value appreciation.
-
+   - Salary Divide: Salaries in London are significantly higher than the UK average, but this gap is especially pronounced in central London, reflecting the higher concentration of high-paying industries like finance, tech, and legal services.
+   - Property Divide: Property prices highlight a similar divide. Central boroughs such as Westminster and Kensington and Chelsea are unaffordable to most, while outer boroughs like Greenwich or Ealing offer more affordable options, albeit with fewer high-paying job opportunities. This disparity underscores the socioeconomic polarization within London.
+2. Property Market Resilience:
+      - Despite global economic challenges, London's property market remains robust, though more volatile compared to the broader UK market.
+3. Affordability Challenges:
+      - London remains a high-demand market, keeping property prices elevated. The rising price per square foot, especially in central London, indicates growing affordability concerns for average buyers.
+      - Luxury properties (beyond £2,000 per sqft) such as penthouses and house remain a niche market segment.
+4. Investment Opportunities:
+   - Apartments and flats present opportunities for cost-efficient investments, while luxury properties cater to high-net-worth individuals. 
+   - Certain areas of London have experienced rapid salary growth, yet property prices in these locations have not risen at the same pace. This disparity could present attractive opportunities for investors, as these areas may offer strong potential for future property value appreciation.
 
 ### Reference
-
+1. Urban Big Data Center
+https://data.ubdc.ac.uk/datasets/
+2.London Datastore
+ https://data.london.gov.uk/dataset/
